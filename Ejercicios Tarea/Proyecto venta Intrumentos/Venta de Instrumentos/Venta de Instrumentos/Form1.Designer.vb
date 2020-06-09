@@ -132,7 +132,7 @@ Partial Class Form1
         '
         'BtnCalcular
         '
-        Me.BtnCalcular.BackColor = System.Drawing.Color.Blue
+        Me.BtnCalcular.BackColor = System.Drawing.Color.Gray
         Me.BtnCalcular.Location = New System.Drawing.Point(3, 21)
         Me.BtnCalcular.Name = "BtnCalcular"
         Me.BtnCalcular.Size = New System.Drawing.Size(112, 65)
@@ -142,7 +142,7 @@ Partial Class Form1
         '
         'BtnSalir
         '
-        Me.BtnSalir.BackColor = System.Drawing.Color.Red
+        Me.BtnSalir.BackColor = System.Drawing.Color.Gray
         Me.BtnSalir.Location = New System.Drawing.Point(286, 21)
         Me.BtnSalir.Name = "BtnSalir"
         Me.BtnSalir.Size = New System.Drawing.Size(112, 65)
@@ -202,7 +202,7 @@ Partial Class Form1
         '
         'BtnNuevo
         '
-        Me.BtnNuevo.BackColor = System.Drawing.Color.Yellow
+        Me.BtnNuevo.BackColor = System.Drawing.Color.Gray
         Me.BtnNuevo.Enabled = False
         Me.BtnNuevo.Location = New System.Drawing.Point(143, 21)
         Me.BtnNuevo.Name = "BtnNuevo"

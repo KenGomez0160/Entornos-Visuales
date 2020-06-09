@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Venta de Instrumentos", "Venta de Instrumentos\Venta de Instrumentos.vbproj", "{98ACD900-C47E-4913-8821-C30868115DC1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E78C7CEE-D038-416B-BA67-34B76E95273F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\Desktop\PROGRAMACION ENTORNO DESARROLLO VISUAL\CicloFor\CicloFor.sln = ..\..\..\..\..\..\Desktop\PROGRAMACION ENTORNO DESARROLLO VISUAL\CicloFor\CicloFor.sln
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
